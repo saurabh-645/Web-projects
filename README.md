@@ -60,6 +60,6 @@ This project is an implementation of a Wikipedia-like online encyclopedia. Users
 
 ## Contact
 
-Saurabh Gupta - saurabhgupta89691@gmail.com(mailto:saurabhgupta89691@gmail.com)
+Saurabh Gupta - [saurabhgupta89691@gmail.com](mailto:saurabhgupta89691@gmail.com)
 
-Project Link: https://github.com/saurabh-645/wikipedia-clone((https://github.com/saurabh-645/wikipedia-clone))
+Project Link: [https://github.com/saurabh-645/wikipedia-clone](https://github.com/saurabh-645/wikipedia-clone)
